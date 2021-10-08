@@ -1,0 +1,44 @@
+{
+  "name": "5",
+  "symbol": "NDuck",
+  "image": "https://nftshop-foton.vercel.app/ducks/1.svg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nftshop-foton.vercel.app/ducks/1.svg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "JAkWbb4MiXVufUm3ZXUmmL3LDdBX3JkHcw7bpH5emNSg",
+        "share": 100
+      }
+    ]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "star-eyes"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "block-mouth"
+    },
+    {
+      "trait_type": "face",
+      "value": "teal-face"
+    }
+  ],
+  "collection": {
+    "name": "NoiaDucks",
+    "family": "NDucks"
+  }
+}
